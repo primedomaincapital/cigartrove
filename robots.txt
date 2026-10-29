@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cigartrove.com/sitemap.xml
