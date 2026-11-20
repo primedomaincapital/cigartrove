@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cigartrove.com/</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
     <loc>https://cigartrove.com/insights/article1/</loc>
@@ -22,6 +22,18 @@
   </url>
   <url>
     <loc>https://cigartrove.com/insights/article5</loc>
+  </url>
+  <url>
+    <loc>https://cigartrove.com/insights/article6</loc>
+    <lastmod>2026-11-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cigartrove.com/insights/article7</loc>
+    <lastmod>2026-11-19</lastmod>
+  </url>
+  <url>
+    <loc>https://cigartrove.com/insights/article8</loc>
+    <lastmod>2026-11-19</lastmod>
   </url>
   <url>
     <loc>https://cigartrove.com/market-data</loc>
